@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/simpleapp/static/css/main.0cfe433d.chunk.css",
+    "main.js": "/simpleapp/static/js/main.856c8c04.chunk.js",
+    "main.js.map": "/simpleapp/static/js/main.856c8c04.chunk.js.map",
+    "runtime-main.js": "/simpleapp/static/js/runtime-main.43bfccbf.js",
+    "runtime-main.js.map": "/simpleapp/static/js/runtime-main.43bfccbf.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/simpleapp/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.be01bc93.chunk.js": "/simpleapp/static/js/2.be01bc93.chunk.js",
+    "static/js/2.be01bc93.chunk.js.map": "/simpleapp/static/js/2.be01bc93.chunk.js.map",
+    "index.html": "/simpleapp/index.html",
+    "precache-manifest.c71fe1d551d5a2c167e068d96547c412.js": "/simpleapp/precache-manifest.c71fe1d551d5a2c167e068d96547c412.js",
+    "service-worker.js": "/simpleapp/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/simpleapp/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.0cfe433d.chunk.css.map": "/simpleapp/static/css/main.0cfe433d.chunk.css.map",
+    "static/js/2.be01bc93.chunk.js.LICENSE.txt": "/simpleapp/static/js/2.be01bc93.chunk.js.LICENSE.txt",
+    "static/media/shaggy.png": "/simpleapp/static/media/shaggy.7c43c357.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43bfccbf.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.be01bc93.chunk.js",
+    "static/css/main.0cfe433d.chunk.css",
+    "static/js/main.856c8c04.chunk.js"
+  ]
+}
